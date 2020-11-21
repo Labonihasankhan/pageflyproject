@@ -1,0 +1,82 @@
+@media (max-width: 1399px){
+
+
+
+
+}
+@media (max-width: 1299px){
+
+
+
+
+}
+
+
+
+
+
+@media (max-width: 1199px){
+   .nav-item{
+    padding: 10px;
+
+}
+.banner22 {
+    
+
+ }
+.nav-link{
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.content1 h1{
+   font-size: 50px;
+   padding-left: 115px;
+  
+}
+
+}
+
+@media (max-width: 991px){
+	
+		.navbar-brand {
+    width: 40%;
+   
+}
+.content1 h1{
+   font-size: 50px;
+  padding-left: 100px;
+}
+  .banner22{
+  	
+
+  }
+  .banner1{
+
+  }
+
+}
+@media (max-width: 767px){
+	.banner22{
+		
+	}
+	.banner1{
+
+	}
+}
+@media (max-width: 575px){
+  .banner22{
+    
+  }
+  .banner1{
+    
+  }
+  .content1 h5{
+
+  }
+  .col-4 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+
+}
